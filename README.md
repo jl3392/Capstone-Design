@@ -11,6 +11,6 @@ The good point to use this as a capstone design is that
 ## Second idea
 Compare the heart beat data between patients and healthy people
 Currently I am working in a research lab and have generated a bunch of acoustic signals of heart beats from healthy people and people with mild heart murmar. I would like to see whether the patients with mild heart murmur and healthy people have significant heart beat rates.
-The main problem is that I do not have enough data. I have tested 6 volunteers, with three parallel testing of each of them. Two of them have mild heart murmur.
+* The main problem is that I do not have enough data. I have tested 6 volunteers, with three parallel testing of each of them. Two of them have mild heart murmur.
 ## Third idea
 I was working at a pharmaceutical manufacturing site monitoring the safety issue. I have collected all the safety reports in the past three years and would like to analyze the distribution and affecting factors  ( such as season, location, department) of the safety issues.
