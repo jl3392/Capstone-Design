@@ -11,7 +11,7 @@ In the previous study, acoustic detection has been used for coronary artery dise
 Matlab and Python scripts are written to analyze the data.
 
 ## License
-We choose to use Apache License, Version 2.0 for our project's license. Because this license provides an express grant of patent rights from contributors to users.
+I chose to use Apache License, Version 2.0 for our project's license. Because this license provides an express grant of patent rights from contributors to users.
 
 ## Contributor
 Jing-Rui Li(jl714@duke.edu)
