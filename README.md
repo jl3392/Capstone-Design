@@ -8,10 +8,10 @@ Link to the dataset: http://scikit-learn.org/stable/modules/generated/sklearn.da
 Breast cancer is one of the most dangerous form of cancers in the world. Annually, Breast caner kills an estimated 20,000 people in the US. If breast cancer is recognized and treated early, it is almost curable, with a 80 to 90% 5-year survival rate when treated with simple excision. Early diagnosis of the breast cancer will help save thousands of lives.
 
 ## Method
-Machine learning with logistic regression and SVM will be used in this project, written with python to classify 
+Machine learning with logistic regression and SVM will be used in this project. The script is writtern in python 3.6.
 
 ## License
 I chose to use Apache License, Version 2.0 for our project's license. Because this license provides an express grant of patent rights from contributors to users.
 
 ## Contributor
-Jing-Rui Li(jl714@duke.edu)
+Jing-Rui Li(jingli3392@gmail.com)
